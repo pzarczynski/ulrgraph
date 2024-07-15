@@ -1,0 +1,5 @@
+﻿aiohttp==3.9.5
+beautifulsoup4==4.12.3
+fire==0.6.0
+loguru==0.7.2
+pyvis==0.3.2
